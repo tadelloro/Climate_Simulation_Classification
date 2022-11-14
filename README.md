@@ -1,7 +1,7 @@
 ### Climate Model Simulation Crashes (Failures)
 
 #### Problem
-Numerical climate model simulations are highly complex and in some cases prone to fail or crash for a variety of reasons. This project attempts to classify simulation outcomes as crash (failure) or success using the physical climate parameter values of each simulation run.
+Numerical climate model simulations are highly complex and in some cases prone to fail or crash due to a variety of reasons. This project attempts to classify simulation outcomes based solely on the values of the physical parameters used in each simulation run.
 
 #### Jupyter Notebooks and scripts
 * Stage 1 includes code for data acquisition and initial exploratory data analysis.
