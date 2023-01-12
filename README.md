@@ -4,8 +4,8 @@
 Numerical climate model simulations are highly complex and in some cases prone to fail or crash due to a variety of reasons. This project attempts to classify simulation outcomes based solely on the values of the physical parameters used in each simulation run.
 
 #### Jupyter Notebooks and scripts
-* Stage 1 includes code for data acquisition and initial exploratory data analysis.
-* Stage 2 includes code for classification modeling: i.e., model optimization, testing, and performance results.
+* Stage_1_Data_Analysis.ipynb includes code for data acquisition and initial exploratory data analysis.
+* Stage_2_Modeling.ipynb includes code for classification modeling: i.e., model optimization, testing, and performance results.
 
 #### Dataset
 The dataset includes 540 climate model simulation outcomes and climate parameter values used in each run. Only 46 out of the 540 simulation runs failed due to numerical reasons caused by the climate parameter values used in the run.
