@@ -3,6 +3,9 @@
 #### Problem
 Numerical climate model simulations are highly complex and in some cases prone to fail or crash due to a variety of reasons. This project attempts to classify simulation outcomes based solely on the values of the physical parameters used in each simulation run.
 
+#### Business Case
+Running a complex numerical simulation is a capital heavy endeavor, each simulation run consumes large amounts of resources (e.g., time, energy, dollars, compute). Decreasing the number of simulations runs that are likely to fail will help reduce capital waste.
+
 #### Jupyter Notebooks and scripts
 * Classification.ipynb includes code for initial exploratory data analysis and classification modeling: i.e., model optimization, testing, and performance results.
 
@@ -11,8 +14,5 @@ The dataset includes 540 climate model simulation outcomes and climate parameter
 
 The dataset may be found here:
 * https://archive.ics.uci.edu/ml/machine-learning-databases/00252/
-
-#### Business Case
-Running a complex numerical simulation is a capital heavy endeavor, each simulation run consumes large amounts of resources (e.g., time, energy, dollars, compute). Decreasing the number of simulations runs that are likely to fail will help reduce capital waste.
 
 
